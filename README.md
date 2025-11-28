@@ -1,0 +1,2 @@
+# -Design-and-Implementation-of-a-Hybrid-Robot-in-Pharmacy-management-using-PLC-and-LabView
+This project implements a hybrid pharmacy robot using PLC for logic and LabVIEW for visualization. The system scans barcodes to automate medication retrieval, inventory updates, and dosage display. By integrating control with database management, it reduces workload and dosing errors, significantly optimizing pharmacy workflows. 
